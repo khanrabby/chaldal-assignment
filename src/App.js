@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Categories from './Categories.js';
-import './CSS/App.css';
 import './CSS/bootstrap.min.css';
 import {GetFilteredData} from './DataParser.js'
 
