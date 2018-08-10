@@ -1,11 +1,10 @@
 # Chaldal Assignment
 
-This is the repository I created for submitting the assignment.
 
 ### Prerequisites
 
 ```
-Node.js is installed in your system to so that you can use npm commands.
+Node.js is installed in your system.
 ```
 
 ### To run the project , you need to go through following steps. 
