@@ -1,11 +1,6 @@
 # Chaldal Assignment
 
-This is repository I created for submitting an assignment.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
-See deployment for notes on how to deploy the project on a live system.
+This is the repository I created for submitting the assignment.
 
 ### Prerequisites
 
@@ -13,7 +8,7 @@ See deployment for notes on how to deploy the project on a live system.
 You must have node installed in your system.
 ```
 
-### To run the project , you need go through following steps. 
+### To run the project , you need to go through following steps. 
 
 ```
 1. Clone the repository.
