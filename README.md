@@ -5,7 +5,7 @@ This is the repository I created for submitting the assignment.
 ### Prerequisites
 
 ```
-You must have node installed in your system.
+Node.js is installed in your system to so that you can use npm commands.
 ```
 
 ### To run the project , you need to go through following steps. 
